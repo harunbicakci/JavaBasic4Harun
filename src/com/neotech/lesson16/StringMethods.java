@@ -61,22 +61,6 @@ public class StringMethods {
 		int sizeArray = num.length; // this is a property of arrays
 		
 		int sizeOfString = "Hello".length(); // this is a string method
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+			
 	}
 }
